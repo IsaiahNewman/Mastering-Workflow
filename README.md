@@ -1,1 +1,1 @@
-# Mastering-Workflow
+Practice repository for GitHub workflow assignment
